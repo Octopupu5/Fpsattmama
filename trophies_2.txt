@@ -1,0 +1,61 @@
+Таблица 2 – Значения присваиваемых весов трофеям у клубов.
+Название трофея	Вес
+FIFA Club World Cup winner	10
+UEFA Champions League Winner	10
+UEFA Europa League Winner	9
+UEFA Supercup Winner	8
+Intercontinental Cup Winner	8
+UEFA Cup Winner	7
+Cup Winners Cup Winner	6
+Inter-Cities Fairs Cup winner	6
+European Champion Clubs’ Cup winner	5
+Intertoto-Cup Winner	4
+Conference League winner	3
+English Champion	9
+German Champion	9
+Spanish Champion	9
+Italian Champion	9
+French Champion	9
+FA Cup Winner	8
+German Cup winner	8
+Spanish Cup winner	8
+English Supercup Winner	7
+French Supercup Winner	7
+Italian Super Cup winner	7
+English League Cup winner	6
+French league cup winner	6
+FA Cup Runner up	5
+German Cup runner-up	5
+English League Cup runner-up	4
+French league cup runner-up	4
+German Runner Up	3
+relegated from 1st league	3
+English 2nd tier champion	7
+German 2. Bundesliga Champion	7
+Spanish 2nd tier champion	7
+Italian Serie B champion	7
+French 2nd tier champion	7
+Promoted to 1st league	6
+English 3rd tier champion	5
+Promoted to 2. Liga	5
+German 3. Liga Champion	5
+Promoted to third tier	4
+Promotion to 4th division	3
+relegated from 2nd league	3
+relegated from 3rd league	3
+Relegation from 4th division	2
+German Regionalliga Bavaria Champion	4
+German Regionalliga West Champion	4
+Italians U19s Cup Winner	4
+U21 Premier League Sieger	4
+Landespokal Winners (for all)	3
+Italian Lega Pro Champion (A/B/C)	3
+Italian Lega Pro 2 Champion (B/C/D)	3
+Scudetto Serie D	3
+Mitropacup	3
+Winner Copa RFEF	2
+Winner Coupe Charles Drago	2
+Winner of the German Amateur championship	2
+Copa Catalunya Winner	2
+Copa Eva Duarte Winner	2
+Western German Cup Winner	2
